@@ -22,6 +22,7 @@ Maintained by [Crowd](http://crowd.fyi/).
 * BassCSS: [Website](http://www.basscss.com/)
 * Concise: [Website](http://concisecss.com/)
 * Cardinal: [Website](http://cardinalcss.com/)
+* Tachyons: [Website](http://tachyons.io/)
 
 ## Animation
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
