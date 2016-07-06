@@ -18,6 +18,7 @@ Maintained by [Crowd](http://crowd.fyi/).
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
 * Foundation: [GitHub](https://github.com/zurb/foundation-sites) | [Website](http://foundation.zurb.com/)
 * HTML5 Boilerplate: [Github](https://github.com/h5bp/html5-boilerplate) | [Website](https://html5boilerplate.com/)
+* Materialize: [GitHub](https://github.com/Dogfalo/materialize) | [Website](http://materializecss.com/)
 * Skeleton: [Website](http://getskeleton.com/)
 * BassCSS: [Website](http://www.basscss.com/)
 * Concise: [Website](http://concisecss.com/)
