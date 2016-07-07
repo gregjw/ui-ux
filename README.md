@@ -27,6 +27,9 @@ Maintained by [Crowd](http://crowd.fyi/).
 
 ## Front-end JS
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
+* Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
+* Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
+
 
 ## Animation
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
