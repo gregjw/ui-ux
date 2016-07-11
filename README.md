@@ -36,8 +36,10 @@ Maintained by [Crowd](http://crowd.fyi/).
 * Hover.css: [Github](https://github.com/IanLunn/Hover) | [Website](http://ianlunn.github.io/Hover/)
 
 ## Testing Frameworks
-* Jasmine: [GitHub](https://github.com/necolas/normalize.css)
-* Wallaby.js: [GitHub](https://github.com/necolas/normalize.css)
+* QUnit: [Website](https://qunitjs.com/)
+* Jasmine: [Website](http://jasmine.github.io/)
+* Mocha: [Website](https://mochajs.org/)
+* Wallaby.js: [Website](https://wallabyjs.com/)
 
 ## Miscellaneous Frameworks
 * Normalize.css: [GitHub](https://github.com/necolas/normalize.css)
