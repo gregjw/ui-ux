@@ -30,11 +30,14 @@ Maintained by [Crowd](http://crowd.fyi/).
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
 
-
 ## Animation
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
 * Animate.css: [GitHub](https://github.com/daneden/animate.css) | [Website](http://daneden.github.io/animate.css/)
 * Hover.css: [Github](https://github.com/IanLunn/Hover) | [Website](http://ianlunn.github.io/Hover/)
+
+## Testing Frameworks
+* Jasmine: [GitHub](https://github.com/necolas/normalize.css)
+* Wallaby.js: [GitHub](https://github.com/necolas/normalize.css)
 
 ## Miscellaneous Frameworks
 * Normalize.css: [GitHub](https://github.com/necolas/normalize.css)
