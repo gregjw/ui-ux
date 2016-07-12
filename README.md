@@ -8,8 +8,11 @@ Maintained by [Crowd](http://crowd.fyi/).
 
 ## Table of Contents
 
-* [Front-end](#front-end)
+* [Front-end CSS](#front-end-css)
+* [Front-end JS](#front-end-js)
+* [CSS Preprocessor](#css-preprocessor)
 * [Animation](#animation)
+* [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
 * [Miscellaneous](#miscellaneous)
 * [Websites](#websites)
