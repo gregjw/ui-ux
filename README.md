@@ -30,6 +30,10 @@ Maintained by [Crowd](http://crowd.fyi/).
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
 
+## CSS Preprocessor
+* Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
+* Less: [GitHub](https://github.com/less/less.js) | [Website](http://lesscss.org/#)
+
 ## Animation
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
 * Animate.css: [GitHub](https://github.com/daneden/animate.css) | [Website](http://daneden.github.io/animate.css/)
