@@ -37,6 +37,9 @@ Maintained by [Crowd](http://crowd.fyi/).
 ## CSS Preprocessor
 * Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
 * Less: [GitHub](https://github.com/less/less.js) | [Website](http://lesscss.org/#)
+* Stylus: [GitHub](https://github.com/stylus/stylus/) | [Website](http://stylus-lang.com/)
+* CSS-Crush: [GitHub](https://github.com/peteboere/css-crush) | [Website](http://the-echoplex.net/csscrush/)
+* Myth: [GitHub](https://github.com/segmentio/myth) | [Website](http://www.myth.io/)
 
 ## Animation
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
