@@ -32,6 +32,7 @@ Maintained by [Crowd](http://crowd.fyi/).
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
+* Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
 
 ## CSS Preprocessor
 * Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
