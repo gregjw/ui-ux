@@ -40,6 +40,7 @@ Maintained by [Crowd](http://crowd.fyi/).
 * Stylus: [GitHub](https://github.com/stylus/stylus/) | [Website](http://stylus-lang.com/)
 * CSS-Crush: [GitHub](https://github.com/peteboere/css-crush) | [Website](http://the-echoplex.net/csscrush/)
 * Myth: [GitHub](https://github.com/segmentio/myth) | [Website](http://www.myth.io/)
+* Clay: [GitHub](https://github.com/sebastiaanvisser/clay) | [Website](http://fvisser.nl/clay/)
 
 ## Animation
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
