@@ -27,6 +27,7 @@ Maintained by [Crowd](http://crowd.fyi/).
 * Concise: [Website](http://concisecss.com/)
 * Cardinal: [Website](http://cardinalcss.com/)
 * Tachyons: [Website](http://tachyons.io/)
+* Fluidity: [GitHub](https://github.com/mrmrs/fluidity) | [Website](http://fluidity.sexy/)
 
 ## Front-end JS
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
