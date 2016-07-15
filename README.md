@@ -57,6 +57,7 @@ Maintained by [Crowd](http://crowd.fyi/).
 ## Miscellaneous Frameworks
 * Normalize.css: [GitHub](https://github.com/necolas/normalize.css)
 * Buttons: [Github](https://github.com/alexwolfe/Buttons)
+* Polymer Designer: [Github](https://github.com/Polymer/designer)
 
 ## Miscellaneous 
 * [DesignMovies](http://www.designmovi.es/?ref=producthunt)
