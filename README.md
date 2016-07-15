@@ -60,7 +60,9 @@ Maintained by [Crowd](http://crowd.fyi/).
 * Polymer Designer: [Github](https://github.com/Polymer/designer)
 
 ## Miscellaneous 
-* [DesignMovies](http://www.designmovi.es/?ref=producthunt)
+* [DesignMovies](http://www.designmovi.es/)
+* [UI Talks](http://talks.ui-patterns.com/)
+* [Panda](http://usepanda.com/)
 
 ## Websites
 * [CSS-Tricks](https://css-tricks.com/)
