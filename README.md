@@ -47,6 +47,8 @@ Maintained by [Crowd](http://crowd.fyi/).
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
 * Animate.css: [GitHub](https://github.com/daneden/animate.css) | [Website](http://daneden.github.io/animate.css/)
 * Hover.css: [Github](https://github.com/IanLunn/Hover) | [Website](http://ianlunn.github.io/Hover/)
+* Effeckt.css: [Github](http://h5bp.github.io/Effeckt.css/) 
+* Bounce.js: [Github](https://github.com/tictail/bounce.js) | [Website](http://bouncejs.com/)
 
 ## Testing Frameworks
 * QUnit: [Website](https://qunitjs.com/)
