@@ -11,6 +11,7 @@ Maintained by [Crowd](http://crowd.fyi/).
 * [Front-end CSS](#front-end-css)
 * [Front-end JS](#front-end-js)
 * [CSS Preprocessor](#css-preprocessor)
+* [Email Frameworks](#email-frameworks)
 * [Animation](#animation)
 * [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
@@ -42,6 +43,11 @@ Maintained by [Crowd](http://crowd.fyi/).
 * CSS-Crush: [GitHub](https://github.com/peteboere/css-crush) | [Website](http://the-echoplex.net/csscrush/)
 * Myth: [GitHub](https://github.com/segmentio/myth) | [Website](http://www.myth.io/)
 * Clay: [GitHub](https://github.com/sebastiaanvisser/clay) | [Website](http://fvisser.nl/clay/)
+
+## Email Frameworks
+* Foundation for Emails (Formerly Ink): [GitHub](https://github.com/zurb/foundation-emails) | [Website](http://foundation.zurb.com/emails/email-templates.html)
+* MJML: [Website](https://mjml.io/)
+* Antwort: [Website](http://internations.github.io/antwort/)
 
 ## Animation
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
