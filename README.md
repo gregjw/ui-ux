@@ -44,6 +44,9 @@ Maintained by [Crowd](http://crowd.fyi/).
 * Myth: [GitHub](https://github.com/segmentio/myth) | [Website](http://www.myth.io/)
 * Clay: [GitHub](https://github.com/sebastiaanvisser/clay) | [Website](http://fvisser.nl/clay/)
 
+## Typography
+* Simple Typography with Sass: [GitHub](https://github.com/AdamMarsden/simple-typography)
+
 ## Email Frameworks
 * Foundation for Emails (Formerly Ink): [GitHub](https://github.com/zurb/foundation-emails) | [Website](http://foundation.zurb.com/emails/email-templates.html)
 * MJML: [Website](https://mjml.io/)
