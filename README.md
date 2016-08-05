@@ -11,6 +11,7 @@ Maintained by [Crowd](http://crowd.fyi/).
 * [Front-end CSS](#front-end-css)
 * [Front-end JS](#front-end-js)
 * [CSS Preprocessor](#css-preprocessor)
+* [Typography](#typography)
 * [Email Frameworks](#email-frameworks)
 * [Animation](#animation)
 * [Testing Frameworks](#testing-frameworks)
