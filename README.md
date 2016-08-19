@@ -75,6 +75,7 @@ Maintained by [Crowd](http://crowd.fyi/).
 * [DesignMovies](http://www.designmovi.es/)
 * [UI Talks](http://talks.ui-patterns.com/)
 * [Panda](http://usepanda.com/)
+* [Codrops](http://tympanus.net/codrops/)
 
 ## Websites
 * [CSS-Tricks](https://css-tricks.com/)
