@@ -59,6 +59,7 @@ Maintained by [Crowd](http://crowd.fyi/).
 * Hover.css: [Github](https://github.com/IanLunn/Hover) | [Website](http://ianlunn.github.io/Hover/)
 * Effeckt.css: [Github](http://h5bp.github.io/Effeckt.css/) 
 * Bounce.js: [Github](https://github.com/tictail/bounce.js) | [Website](http://bouncejs.com/)
+* Choreographer.js [Github](https://github.com/christinecha/choreographer-js) | [Website](https://christinecha.github.io/choreographer-js/)
 
 ## Testing Frameworks
 * QUnit: [Website](https://qunitjs.com/)
