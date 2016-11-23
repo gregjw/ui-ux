@@ -47,6 +47,7 @@ Maintained by [Feather](http://feather-cfm.com/).
 
 ## Typography
 * Simple Typography with Sass: [GitHub](https://github.com/AdamMarsden/simple-typography)
+* Typographic Scales by Spec: [Website](https://spec.fm/specifics/type-scale)
 
 ## Email Frameworks
 * Foundation for Emails (Formerly Ink): [GitHub](https://github.com/zurb/foundation-emails) | [Website](http://foundation.zurb.com/emails/email-templates.html)
