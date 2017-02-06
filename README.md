@@ -19,6 +19,7 @@ Maintained by [Feather](http://feather-cfm.com/).
 * [Prototyping Tools](#prototyping-tools)
 * [Miscellaneous](#miscellaneous)
 * [Websites](#websites)
+* [Tools](#tools)
 
 ## Front-end CSS
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
@@ -78,6 +79,7 @@ Maintained by [Feather](http://feather-cfm.com/).
 * InVision: [Website](https://zeplin.io/)
 * Zeplin: [Website](https://zeplin.io/)
 * Adobe XD: [Website](http://www.adobe.com/uk/products/experience-design.html)
+* Flinto: [Website](https://flinto.com)
 
 ## Miscellaneous 
 * [DesignMovies](http://www.designmovi.es/)
@@ -91,3 +93,9 @@ Maintained by [Feather](http://feather-cfm.com/).
 * [DesignModo](http://designmodo.com/)
 * [Awwwards](http://www.awwwards.com/blog/)
 * [Dwell](https://hello.dwell.com/)
+
+## Tools
+* [Figma](https://www.figma.com/files)
+* [Sketch](https://www.sketchapp.com/)
+* [Webflow](https://webflow.com/)
+* [Framer](https://framer.com/)
