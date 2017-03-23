@@ -9,7 +9,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 ## Table of Contents
 
 * [Front-end CSS](#front-end-css)
-* [Front-end JS](#front-end-js)
+* [Front-end JavaScript](#front-end-js)
 * [CSS Preprocessor](#css-preprocessor)
 * [Typography](#typography)
 * [Animation](#animation)
@@ -35,7 +35,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Semantic UI: [GitHub](https://github.com/semantic-org/semantic-ui/) | [Website](https://semantic-ui.com/)
 * Eightpoint: [GitHub](https://github.com/wulkano/eightpoint)
 
-## Front-end JS
+## Front-end JavaScript
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
