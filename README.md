@@ -32,12 +32,14 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Cardinal: [Website](http://cardinalcss.com/)
 * Tachyons: [Website](http://tachyons.io/)
 * Fluidity: [GitHub](https://github.com/mrmrs/fluidity) | [Website](http://fluidity.sexy/)
+* Semantic UI: [GitHub](https://github.com/semantic-org/semantic-ui/) | [Website](https://semantic-ui.com/)
 
 ## Front-end JS
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
 * Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
+* Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
 
 ## CSS Preprocessor
 * Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
@@ -58,6 +60,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Effeckt.css: [GitHub](http://h5bp.github.io/Effeckt.css/) 
 * Bounce.js: [GitHub](https://github.com/tictail/bounce.js) | [Website](http://bouncejs.com/)
 * Choreographer.js [GitHub](https://github.com/christinecha/choreographer-js) | [Website](https://christinecha.github.io/choreographer-js/)
+* GreenSock: [Website](https://greensock.com/gsap)
 
 ## Email Frameworks
 * Foundation for Emails (Formerly Ink): [GitHub](https://github.com/zurb/foundation-emails) | [Website](http://foundation.zurb.com/emails/email-templates.html)
