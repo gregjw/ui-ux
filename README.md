@@ -97,5 +97,6 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta and we buil
 ## Tools
 * [Figma](https://www.figma.com/files)
 * [Sketch](https://www.sketchapp.com/)
+* [Sketchpacks](https://www.sketchpacks.com/) for macOS
 * [Webflow](https://webflow.com/)
 * [Framer](https://framer.com/)
