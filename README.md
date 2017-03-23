@@ -32,6 +32,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Cardinal: [Website](http://cardinalcss.com/)
 * Tachyons: [Website](http://tachyons.io/)
 * Fluidity: [GitHub](https://github.com/mrmrs/fluidity) | [Website](http://fluidity.sexy/)
+* Eightpoint: [GitHub](https://github.com/wulkano/eightpoint)
 
 ## Front-end JS
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
@@ -87,6 +88,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * [UI Talks](http://talks.ui-patterns.com/)
 * [Panda](http://usepanda.com/)
 * [Codrops](http://tympanus.net/codrops/)
+* [Kap – An open source screen recorder](https://getkap.co/)
 
 ## Websites
 * [CSS-Tricks](https://css-tricks.com/)
