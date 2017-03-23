@@ -4,7 +4,7 @@ The more frictionless building great user interfaces becomes, the more the user 
 
 The aim of this is to evolve with the industry and the growing list of tools that are built to support UI/UX designers. 
 
-Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta and we build experimental Growth tools 🚀
+Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta and we build experimental Growth tools 
   
 ## Table of Contents
 
@@ -76,10 +76,11 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta and we buil
 * Polymer Designer: [Github](https://github.com/Polymer/designer)
 
 ## Prototyping Tools
-* InVision: [Website](https://zeplin.io/)
-* Zeplin: [Website](https://zeplin.io/)
+* InVision: [Website](https://www.invisionapp.com/)
 * Adobe XD: [Website](http://www.adobe.com/uk/products/experience-design.html)
 * Flinto: [Website](https://flinto.com)
+* Principle: [Website](http://principleformac.com/)
+* Framer: [Website](https://framer.com/)
 
 ## Miscellaneous 
 * [DesignMovies](http://www.designmovi.es/)
