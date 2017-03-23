@@ -52,7 +52,8 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Clay: [GitHub](https://github.com/sebastiaanvisser/clay) | [Website](http://fvisser.nl/clay/)
 
 ## Source Control
-* [GitKraken](https://www.gitkraken.com) - an easy-to-use, cross-platform Git client
+* [GitKraken](https://www.gitkraken.com) - An easy-to-use, cross-platform Git client
+* [Abstract](https://www.abstractapp.com/) - Version control for designers, integrates with [Sketch](https://www.sketchapp.com/).
 
 ## Typography
 * Simple Typography with Sass: [GitHub](https://github.com/AdamMarsden/simple-typography)
