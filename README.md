@@ -24,7 +24,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 ## Front-end CSS
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
 * Foundation: [GitHub](https://github.com/zurb/foundation-sites) | [Website](http://foundation.zurb.com/)
-* HTML5 Boilerplate: [Github](https://github.com/h5bp/html5-boilerplate) | [Website](https://html5boilerplate.com/)
+* HTML5 Boilerplate: [GitHub](https://github.com/h5bp/html5-boilerplate) | [Website](https://html5boilerplate.com/)
 * Materialize: [GitHub](https://github.com/Dogfalo/materialize) | [Website](http://materializecss.com/)
 * Skeleton: [Website](http://getskeleton.com/)
 * BassCSS: [Website](http://www.basscss.com/)
@@ -54,10 +54,10 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 ## Animation
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
 * Animate.css: [GitHub](https://github.com/daneden/animate.css) | [Website](http://daneden.github.io/animate.css/)
-* Hover.css: [Github](https://github.com/IanLunn/Hover) | [Website](http://ianlunn.github.io/Hover/)
-* Effeckt.css: [Github](http://h5bp.github.io/Effeckt.css/) 
-* Bounce.js: [Github](https://github.com/tictail/bounce.js) | [Website](http://bouncejs.com/)
-* Choreographer.js [Github](https://github.com/christinecha/choreographer-js) | [Website](https://christinecha.github.io/choreographer-js/)
+* Hover.css: [GitHub](https://github.com/IanLunn/Hover) | [Website](http://ianlunn.github.io/Hover/)
+* Effeckt.css: [GitHub](http://h5bp.github.io/Effeckt.css/) 
+* Bounce.js: [GitHub](https://github.com/tictail/bounce.js) | [Website](http://bouncejs.com/)
+* Choreographer.js [GitHub](https://github.com/christinecha/choreographer-js) | [Website](https://christinecha.github.io/choreographer-js/)
 
 ## Email Frameworks
 * Foundation for Emails (Formerly Ink): [GitHub](https://github.com/zurb/foundation-emails) | [Website](http://foundation.zurb.com/emails/email-templates.html)
@@ -72,8 +72,8 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 
 ## Miscellaneous Frameworks
 * Normalize.css: [GitHub](https://github.com/necolas/normalize.css)
-* Buttons: [Github](https://github.com/alexwolfe/Buttons)
-* Polymer Designer: [Github](https://github.com/Polymer/designer)
+* Buttons: [GitHub](https://github.com/alexwolfe/Buttons)
+* Polymer Designer: [GitHub](https://github.com/Polymer/designer)
 
 ## Prototyping Tools
 * InVision: [Website](https://www.invisionapp.com/)
