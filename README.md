@@ -19,6 +19,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
 * [Prototyping Tools](#prototyping-tools)
 * [Miscellaneous](#miscellaneous)
+* [YouTube](#youtube)
 * [Websites](#websites)
 * [Tools](#tools)
 
@@ -97,6 +98,10 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * [Panda](http://usepanda.com/)
 * [Codrops](http://tympanus.net/codrops/)
 * [Kap – An open source screen recorder](https://getkap.co/)
+
+## YouTube
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+* [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
 
 ## Websites
 * [CSS-Tricks](https://css-tricks.com/)
