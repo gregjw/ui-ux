@@ -2,15 +2,16 @@
 
 The more frictionless building great user interfaces becomes, the more the user benefits.
 
-The aim of this is to evolve with the industry and the growing list of tools that are built to support UI/UX designers. 
+The aim of this is to evolve with the industry and the growing list of tools that are built to support UI/UX designers.
 
 Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
-  
+
 ## Table of Contents
 
 * [Front-end CSS](#front-end-css)
 * [Front-end JavaScript](#front-end-js)
 * [CSS Preprocessor](#css-preprocessor)
+* [Source Control](#source-control)
 * [Typography](#typography)
 * [Animation](#animation)
 * [Email Frameworks](#email-frameworks)
@@ -50,6 +51,9 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Myth: [GitHub](https://github.com/segmentio/myth) | [Website](http://www.myth.io/)
 * Clay: [GitHub](https://github.com/sebastiaanvisser/clay) | [Website](http://fvisser.nl/clay/)
 
+## Source Control
+* [GitKraken](https://www.gitkraken.com) - an easy-to-use, cross-platform Git client
+
 ## Typography
 * Simple Typography with Sass: [GitHub](https://github.com/AdamMarsden/simple-typography)
 * Typographic Scales by Spec: [Website](https://spec.fm/specifics/type-scale)
@@ -58,7 +62,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
 * Animate.css: [GitHub](https://github.com/daneden/animate.css) | [Website](http://daneden.github.io/animate.css/)
 * Hover.css: [GitHub](https://github.com/IanLunn/Hover) | [Website](http://ianlunn.github.io/Hover/)
-* Effeckt.css: [GitHub](http://h5bp.github.io/Effeckt.css/) 
+* Effeckt.css: [GitHub](http://h5bp.github.io/Effeckt.css/)
 * Bounce.js: [GitHub](https://github.com/tictail/bounce.js) | [Website](http://bouncejs.com/)
 * Choreographer.js [GitHub](https://github.com/christinecha/choreographer-js) | [Website](https://christinecha.github.io/choreographer-js/)
 * GreenSock: [Website](https://greensock.com/gsap)
@@ -86,7 +90,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Principle: [Website](http://principleformac.com/)
 * Framer: [Website](https://framer.com/)
 
-## Miscellaneous 
+## Miscellaneous
 * [DesignMovies](http://www.designmovi.es/)
 * [UI Talks](http://talks.ui-patterns.com/)
 * [Panda](http://usepanda.com/)
