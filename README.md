@@ -106,6 +106,11 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 * [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
 
+## Browser Extensions
+* [Panda](https://usepanda.com/)
+* [Palette](https://chrome.google.com/webstore/detail/palette/nmfbolhlkhjkmkkbginaicfpbpdjlfje)
+* [Stylish](https://userstyles.org/)
+
 ## Websites
 * [Designer News](https://www.designernews.co/)
 * [Dribbble](https://dribbble.com/)
@@ -116,7 +121,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * [Awwwards](http://www.awwwards.com/blog/)
 * [Dwell](https://hello.dwell.com/)
 
-## Tools
+## Generic Design Tools
 * [Figma](https://www.figma.com/files)
 * [Sketch](https://www.sketchapp.com/)
 * [Sketchpacks](https://www.sketchpacks.com/) for macOS
