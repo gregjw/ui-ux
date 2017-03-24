@@ -107,6 +107,9 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
 
 ## Websites
+* [Designer News](https://www.designernews.co/)
+* [Dribbble](https://dribbble.com/)
+* [Behance](https://www.behance.net/)
 * [CSS-Tricks](https://css-tricks.com/)
 * [Webdesigner Depot](http://www.webdesignerdepot.com/)
 * [DesignModo](http://designmodo.com/)
