@@ -14,14 +14,15 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * [Source Control](#source-control)
 * [Typography](#typography)
 * [Animation](#animation)
+* [Prototyping Tools](#prototyping-tools)
 * [Email Frameworks](#email-frameworks)
 * [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
-* [Prototyping Tools](#prototyping-tools)
 * [Miscellaneous](#miscellaneous)
 * [YouTube](#youtube)
 * [Websites](#websites)
 * [Tools](#tools)
+* [User Research](#user-research)
 
 ## Front-end CSS
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
@@ -36,6 +37,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Fluidity: [GitHub](https://github.com/mrmrs/fluidity) | [Website](http://fluidity.sexy/)
 * Semantic UI: [GitHub](https://github.com/semantic-org/semantic-ui/) | [Website](https://semantic-ui.com/)
 * Eightpoint: [GitHub](https://github.com/wulkano/eightpoint)
+* Pure: [Website](https://purecss.io/)
 
 ## Front-end JavaScript
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
@@ -91,6 +93,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Flinto: [Website](https://flinto.com)
 * Principle: [Website](http://principleformac.com/)
 * Framer: [Website](https://framer.com/)
+* Marvel: [Website](https://marvelapp.com/)
 
 ## Miscellaneous
 * [DesignMovies](http://www.designmovi.es/)
@@ -116,3 +119,6 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * [Sketchpacks](https://www.sketchpacks.com/) for macOS
 * [Webflow](https://webflow.com/)
 * [Framer](https://framer.com/)
+
+## User Research
+* [Jaco](https://www.getjaco.com/)
