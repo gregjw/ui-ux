@@ -20,8 +20,9 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
 * [Miscellaneous](#miscellaneous)
 * [YouTube](#youtube)
+* [Browser Extensions](#browser-extensions)
 * [Websites](#websites)
-* [Tools](#tools)
+* [Generic Design Tools](#generic-design-tools)
 * [User Research](#user-research)
 
 ## Front-end CSS
