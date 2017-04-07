@@ -58,6 +58,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 ## Source Control
 * [GitKraken](https://www.gitkraken.com) - An easy-to-use, cross-platform Git client
 * [Abstract](https://www.abstractapp.com/) - Version control for designers, integrates with [Sketch](https://www.sketchapp.com/).
+* [Sketchpacks Relay](https://github.com/integration/sketchpacks-relay) - Serve your Sketch plugin updates from Github in real-time
 
 ## Typography
 * Simple Typography with Sass: [GitHub](https://github.com/AdamMarsden/simple-typography)
