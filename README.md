@@ -125,7 +125,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 ## Generic Design Tools
 * [Figma](https://www.figma.com/files)
 * [Sketch](https://www.sketchapp.com/)
-* [Sketchpacks](https://www.sketchpacks.com/) for macOS
+* [Sketchpacks](https://sketchpacks.com/) - Manage & auto-update your Sketch plugins
 * [Webflow](https://webflow.com/)
 * [Framer](https://framer.com/)
 
