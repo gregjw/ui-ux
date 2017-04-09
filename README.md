@@ -46,6 +46,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
 * Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
 * Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
+* Vue.js: [GitHub](https://github.com/vuejs/vue) | [Website](https://vuejs.org/)
 
 ## CSS Preprocessor
 * Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
