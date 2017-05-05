@@ -4,7 +4,7 @@ The more frictionless building great user interfaces becomes, the more the user 
 
 The aim of this is to evolve with the industry and the growing list of tools that are built to support UI/UX designers.
 
-Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
+Maintained by [Feather](https://feather-cfm.com/) and our design community, [Human Friendly](https://uiux.blog).
 
 ## Table of Contents
 
@@ -47,6 +47,7 @@ Gathered by [Feather](http://feather-cfm.com/), we're in Closed Beta.
 * Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
 * Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
 * Vue.js: [GitHub](https://github.com/vuejs/vue) | [Website](https://vuejs.org/)
+* Poke: [GitHub](https://github.com/gregjw/poke) | [Website](https://poke.js.org/)
 
 ## CSS Preprocessor
 * Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
