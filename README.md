@@ -9,7 +9,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 ## Table of Contents
 
 * [Front-end CSS](#front-end-css)
-* [Front-end JavaScript](#front-end-js)
+* [Front-end JavaScript](#front-end-javascript)
 * [CSS Preprocessor](#css-preprocessor)
 * [Source Control](#source-control)
 * [Typography](#typography)
