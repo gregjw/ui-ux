@@ -39,6 +39,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Semantic UI: [GitHub](https://github.com/semantic-org/semantic-ui/) | [Website](https://semantic-ui.com/)
 * Eightpoint: [GitHub](https://github.com/wulkano/eightpoint)
 * Pure: [Website](https://purecss.io/)
+* Bulma: [Website](http://bulma.io/)
 
 ## Front-end JavaScript
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
@@ -48,6 +49,9 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
 * Vue.js: [GitHub](https://github.com/vuejs/vue) | [Website](https://vuejs.org/)
 * Poke: [GitHub](https://github.com/gregjw/poke) | [Website](https://poke.js.org/)
+* Cycle.js: [Website](https://cycle.js.org/)
+* Elm: [Website](http://elm-lang.org/)
+
 
 ## CSS Preprocessor
 * Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
@@ -56,6 +60,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * CSS-Crush: [GitHub](https://github.com/peteboere/css-crush) | [Website](http://the-echoplex.net/csscrush/)
 * Myth: [GitHub](https://github.com/segmentio/myth) | [Website](http://www.myth.io/)
 * Clay: [GitHub](https://github.com/sebastiaanvisser/clay) | [Website](http://fvisser.nl/clay/)
+* PostCSS: [GitHub](https://github.com/postcss/postcss)
 
 ## Source Control
 * [GitKraken](https://www.gitkraken.com) - An easy-to-use, cross-platform Git client
@@ -90,6 +95,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Normalize.css: [GitHub](https://github.com/necolas/normalize.css)
 * Buttons: [GitHub](https://github.com/alexwolfe/Buttons)
 * Polymer Designer: [GitHub](https://github.com/Polymer/designer)
+* Angular: [GitHub](https://github.com/angular/angular)
 
 ## Prototyping Tools
 * InVision: [Website](https://www.invisionapp.com/)
@@ -104,7 +110,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [UI Talks](http://talks.ui-patterns.com/)
 * [Panda](http://usepanda.com/)
 * [Codrops](http://tympanus.net/codrops/)
-* [Kap – An open source screen recorder](https://getkap.co/)
+* [Kap: An open source screen recorder](https://getkap.co/)
 
 ## YouTube
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
@@ -124,6 +130,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [DesignModo](http://designmodo.com/)
 * [Awwwards](http://www.awwwards.com/blog/)
 * [Dwell](https://hello.dwell.com/)
+* [Interface Lovers](https://interfacelovers.com/)
 
 ## Generic Design Tools
 * [Figma](https://www.figma.com/files)
