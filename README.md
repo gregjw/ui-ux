@@ -31,12 +31,22 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Ricky Rauch: [Twitter](https://twitter.com/rickyrauch)
 * Cat Noone: [Twitter](https://twitter.com/imcatnoone)
 * Øyvind Nordbø: [Twitter](https://twitter.com/onordbo)
+* Greg Worrall: [Twitter](https://twitter.com/gregjwww)
 * Timothy Achumba: [Twitter](https://twitter.com/timothyachumba)
 * Sebastiaan de With: [Twitter](https://twitter.com/sdw)
 * Piper Lawson: [Twitter](https://twitter.com/UxPiper)
+* Tobias van Schneider: [Twitter](https://twitter.com/vanschneider)
 * Haraldur Thorleifsson: [Twitter](https://twitter.com/iamharaldur)
 * Benjamin De Cock: [Twitter](https://twitter.com/bdc)
 * Muan Chiou: [Twitter](https://twitter.com/muanchiou)
+* Bryn Jackson: [Twitter](https://twitter.com/uberbryn)
+* Brian Lovin: [Twitter](https://twitter.com/brian_lovin)
+* Jon Gold: [Twitter](https://twitter.com/jongold)
+* Una Krvates: [Twitter](https://twitter.com/una)
+* Jorn van Dijk: [Twitter](https://twitter.com/jornvandijk)
+* Kat Fukui: [Twitter](https://twitter.com/katfukui)
+* Philip Amour: [Twitter](https://twitter.com/philipamour)
+* Kylie Timpani: [Twitter](https://twitter.com/kylietimpani)
 
 ## Front-end CSS
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
@@ -64,7 +74,6 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Poke: [GitHub](https://github.com/gregjw/poke) | [Website](https://poke.js.org/)
 * Cycle.js: [Website](https://cycle.js.org/)
 * Elm: [Website](http://elm-lang.org/)
-
 
 ## CSS Preprocessor
 * Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
