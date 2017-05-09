@@ -7,7 +7,7 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 Maintained by [Feather](https://feather-cfm.com/) and our design community, [Human Friendly](https://uiux.blog).
 
 ## Table of Contents
-
+* [Designers](#designers)
 * [Front-end CSS](#front-end-css)
 * [Front-end JavaScript](#front-end-javascript)
 * [CSS Preprocessor](#css-preprocessor)
@@ -24,6 +24,19 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [Websites](#websites)
 * [Generic Design Tools](#generic-design-tools)
 * [User Research](#user-research)
+
+## Designers
+* Helen Tran: [Twitter](https://twitter.com/tranhelen)
+* Evil Rabbit: [Twitter](https://twitter.com/evilrabbit_)
+* Ricky Rauch: [Twitter](https://twitter.com/rickyrauch)
+* Cat Noone: [Twitter](https://twitter.com/imcatnoone)
+* Øyvind Nordbø: [Twitter](https://twitter.com/onordbo)
+* Timothy Achumba: [Twitter](https://twitter.com/timothyachumba)
+* Sebastiaan de With: [Twitter](https://twitter.com/sdw)
+* Piper Lawson: [Twitter](https://twitter.com/UxPiper)
+* Haraldur Thorleifsson: [Twitter](https://twitter.com/iamharaldur)
+* Benjamin De Cock: [Twitter](https://twitter.com/bdc)
+* Muan Chiou: [Twitter](https://twitter.com/muanchiou)
 
 ## Front-end CSS
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
