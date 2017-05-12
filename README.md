@@ -42,11 +42,15 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Bryn Jackson: [Twitter](https://twitter.com/uberbryn)
 * Brian Lovin: [Twitter](https://twitter.com/brian_lovin)
 * Jon Gold: [Twitter](https://twitter.com/jongold)
-* Una Krvates: [Twitter](https://twitter.com/una)
+* Una Kravets: [Twitter](https://twitter.com/una)
 * Jorn van Dijk: [Twitter](https://twitter.com/jornvandijk)
 * Kat Fukui: [Twitter](https://twitter.com/katfukui)
 * Philip Amour: [Twitter](https://twitter.com/philipamour)
 * Kylie Timpani: [Twitter](https://twitter.com/kylietimpani)
+* Kalina Ivanova: [Twitter](https://twitter.com/VertigoBirdie)
+* Alan Bauchop: [Twitter](https://twitter.com/AlanInterface)
+* Colin Dunn: [Twitter](https://twitter.com/colin_dunn)
+* Darin Dimitroff: [Twitter](https://twitter.com/deezel)
 
 ## Front-end CSS
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
