@@ -1,4 +1,4 @@
-# Evolving Resource List for UI/UX Designers
+# Curated list for UI/UX Designers
 
 The more frictionless building great user interfaces becomes, the more the user benefits.
 
