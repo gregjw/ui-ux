@@ -157,6 +157,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [Awwwards](http://www.awwwards.com/blog/)
 * [Dwell](https://hello.dwell.com/)
 * [Interface Lovers](https://interfacelovers.com/)
+* [Smashing Magazine](https://www.smashingmagazine.com/articles/)
 
 ## Generic Design Tools
 * [Figma](https://www.figma.com/files)
