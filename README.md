@@ -96,6 +96,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 ## Typography
 * Simple Typography with Sass: [GitHub](https://github.com/AdamMarsden/simple-typography)
 * Typographic Scales by Spec: [Website](https://spec.fm/specifics/type-scale)
+* Rhythm in Web Typography: [Website](https://betterwebtype.com/rhythm-in-web-typography)
 
 ## Animation
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
