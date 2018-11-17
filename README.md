@@ -125,6 +125,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Angular: [GitHub](https://github.com/angular/angular)
 
 ## Prototyping Tools
+* Moqups: [Website](https://moqups.com/)
 * InVision: [Website](https://www.invisionapp.com/)
 * Adobe XD: [Website](http://www.adobe.com/uk/products/experience-design.html)
 * Flinto: [Website](https://flinto.com)
