@@ -52,6 +52,49 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Colin Dunn: [Twitter](https://twitter.com/colin_dunn)
 * Darin Dimitroff: [Twitter](https://twitter.com/deezel)
 
+## User Research
+* [LookBack](https://lookback.io/)
+* [Jaco](https://www.getjaco.com/)
+
+## Prototyping Tools
+* Moqups: [Website](https://moqups.com/)
+* Axure RP: [Website](https://www.axure.com/)
+* InVision: [Website](https://www.invisionapp.com/)
+* Adobe XD: [Website](http://www.adobe.com/uk/products/experience-design.html)
+* Flinto: [Website](https://flinto.com)
+* Principle: [Website](http://principleformac.com/)
+* Framer: [Website](https://framer.com/)
+* Marvel: [Website](https://marvelapp.com/)
+
+## Browser Extensions
+* [Panda](https://usepanda.com/)
+* [Palette](https://chrome.google.com/webstore/detail/palette/nmfbolhlkhjkmkkbginaicfpbpdjlfje)
+* [Stylish](https://userstyles.org/)
+
+## Generic Design Tools
+* [Figma](https://www.figma.com/files)
+* [Sketch](https://www.sketchapp.com/)
+* [Sketchpacks](https://sketchpacks.com/) - Manage & auto-update your Sketch plugins
+* [Webflow](https://webflow.com/)
+* [Framer](https://framer.com/)
+
+## Websites
+* [Designer News](https://www.designernews.co/)
+* [Dribbble](https://dribbble.com/)
+* [Behance](https://www.behance.net/)
+* [CSS-Tricks](https://css-tricks.com/)
+* [Webdesigner Depot](http://www.webdesignerdepot.com/)
+* [DesignModo](http://designmodo.com/)
+* [Awwwards](http://www.awwwards.com/blog/)
+* [Dwell](https://hello.dwell.com/)
+* [Interface Lovers](https://interfacelovers.com/)
+* [Smashing Magazine](https://www.smashingmagazine.com/articles/)
+
+
+## YouTube
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+* [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
+
 ## Front-end CSS Framework
 * Framework7: [GitHub](https://github.com/framework7io/framework7) | [Website](http://framework7.io)
 * Ionic: [GitHub](https://github.com/ionic-team/ionic) | [Website](https://ionicframework.com/)
@@ -126,49 +169,9 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Polymer Designer: [GitHub](https://github.com/Polymer/designer)
 * Angular: [GitHub](https://github.com/angular/angular)
 
-## Prototyping Tools
-* Moqups: [Website](https://moqups.com/)
-* InVision: [Website](https://www.invisionapp.com/)
-* Adobe XD: [Website](http://www.adobe.com/uk/products/experience-design.html)
-* Flinto: [Website](https://flinto.com)
-* Principle: [Website](http://principleformac.com/)
-* Framer: [Website](https://framer.com/)
-* Marvel: [Website](https://marvelapp.com/)
-
 ## Miscellaneous
 * [DesignMovies](http://www.designmovi.es/)
 * [UI Talks](http://talks.ui-patterns.com/)
 * [Panda](http://usepanda.com/)
 * [Codrops](http://tympanus.net/codrops/)
 * [Kap: An open source screen recorder](https://getkap.co/)
-
-## YouTube
-* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
-* [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
-
-## Browser Extensions
-* [Panda](https://usepanda.com/)
-* [Palette](https://chrome.google.com/webstore/detail/palette/nmfbolhlkhjkmkkbginaicfpbpdjlfje)
-* [Stylish](https://userstyles.org/)
-
-## Websites
-* [Designer News](https://www.designernews.co/)
-* [Dribbble](https://dribbble.com/)
-* [Behance](https://www.behance.net/)
-* [CSS-Tricks](https://css-tricks.com/)
-* [Webdesigner Depot](http://www.webdesignerdepot.com/)
-* [DesignModo](http://designmodo.com/)
-* [Awwwards](http://www.awwwards.com/blog/)
-* [Dwell](https://hello.dwell.com/)
-* [Interface Lovers](https://interfacelovers.com/)
-* [Smashing Magazine](https://www.smashingmagazine.com/articles/)
-
-## Generic Design Tools
-* [Figma](https://www.figma.com/files)
-* [Sketch](https://www.sketchapp.com/)
-* [Sketchpacks](https://sketchpacks.com/) - Manage & auto-update your Sketch plugins
-* [Webflow](https://webflow.com/)
-* [Framer](https://framer.com/)
-
-## User Research
-* [Jaco](https://www.getjaco.com/)
