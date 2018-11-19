@@ -8,24 +8,25 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 
 ## Table of Contents
 * [Designers](#designers)
-* [Front-end CSS](#front-end-css)
-* [Front-end JavaScript](#front-end-javascript)
+* [User Research](#user-research)
+* [Prototyping Tools](#prototyping-tools)
+* [Browser Extensions](#browser-extensions)
+* [Generic Design Tools](#generic-design-tools)
+* [Miscellaneous](#miscellaneous)
+* [Websites](#websites)
+* [YouTube](#youtube)
+* [Front-end CSS Framework](#front-end-css-framework)
+* [Front-end JavaScript Framework](#front-end-javascript-framework)
 * [CSS Preprocessor](#css-preprocessor)
-* [Source Control](#source-control)
 * [Typography](#typography)
 * [Animation](#animation)
-* [Prototyping Tools](#prototyping-tools)
 * [Email Frameworks](#email-frameworks)
 * [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
-* [Miscellaneous](#miscellaneous)
-* [YouTube](#youtube)
-* [Browser Extensions](#browser-extensions)
-* [Websites](#websites)
-* [Generic Design Tools](#generic-design-tools)
-* [User Research](#user-research)
+* [Version Control](#version-control)
 
-## Designers
+## UX
+### Designers
 * Helen Tran: [Twitter](https://twitter.com/tranhelen)
 * Evil Rabbit: [Twitter](https://twitter.com/evilrabbit_)
 * Ricky Rauch: [Twitter](https://twitter.com/rickyrauch)
@@ -52,7 +53,60 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Colin Dunn: [Twitter](https://twitter.com/colin_dunn)
 * Darin Dimitroff: [Twitter](https://twitter.com/deezel)
 
-## Front-end CSS
+### User Research
+* [LookBack](https://lookback.io/)
+* [Jaco](https://www.getjaco.com/)
+
+### Prototyping Tools
+* Moqups: [Website](https://moqups.com/)
+* Axure RP: [Website](https://www.axure.com/)
+* InVision: [Website](https://www.invisionapp.com/)
+* Adobe XD: [Website](http://www.adobe.com/uk/products/experience-design.html)
+* Flinto: [Website](https://flinto.com)
+* Principle: [Website](http://principleformac.com/)
+* Framer: [Website](https://framer.com/)
+* Marvel: [Website](https://marvelapp.com/)
+
+### Browser Extensions
+* [Panda](https://usepanda.com/)
+* [Palette](https://chrome.google.com/webstore/detail/palette/nmfbolhlkhjkmkkbginaicfpbpdjlfje)
+* [Stylish](https://userstyles.org/)
+
+### Generic Design Tools
+* [Figma](https://www.figma.com/files)
+* [Sketch](https://www.sketchapp.com/)
+* [Sketchpacks](https://sketchpacks.com/) - Manage & auto-update your Sketch plugins
+* [Webflow](https://webflow.com/)
+* [Framer](https://framer.com/)
+
+### Miscellaneous
+* [DesignMovies](http://www.designmovi.es/)
+* [UI Talks](http://talks.ui-patterns.com/)
+* [Panda](http://usepanda.com/)
+* [Codrops](http://tympanus.net/codrops/)
+* [Kap: An open source screen recorder](https://getkap.co/)
+
+### Websites
+* [Designer News](https://www.designernews.co/)
+* [Dribbble](https://dribbble.com/)
+* [Behance](https://www.behance.net/)
+* [CSS-Tricks](https://css-tricks.com/)
+* [Webdesigner Depot](http://www.webdesignerdepot.com/)
+* [DesignModo](http://designmodo.com/)
+* [Awwwards](http://www.awwwards.com/blog/)
+* [Dwell](https://hello.dwell.com/)
+* [Interface Lovers](https://interfacelovers.com/)
+* [Smashing Magazine](https://www.smashingmagazine.com/articles/)
+
+### YouTube
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+* [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
+
+## UI
+
+### Front-end CSS Framework
+* Framework7: [GitHub](https://github.com/framework7io/framework7) | [Website](http://framework7.io)
+* Ionic: [GitHub](https://github.com/ionic-team/ionic) | [Website](https://ionicframework.com/)
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
 * Foundation: [GitHub](https://github.com/zurb/foundation-sites) | [Website](http://foundation.zurb.com/)
 * HTML5 Boilerplate: [GitHub](https://github.com/h5bp/html5-boilerplate) | [Website](https://html5boilerplate.com/)
@@ -68,7 +122,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Pure: [Website](https://purecss.io/)
 * Bulma: [Website](http://bulma.io/)
 
-## Front-end JavaScript
+### Front-end JavaScript Framework
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
@@ -79,7 +133,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Cycle.js: [Website](https://cycle.js.org/)
 * Elm: [Website](http://elm-lang.org/)
 
-## CSS Preprocessor
+### CSS Preprocessor
 * Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
 * Less: [GitHub](https://github.com/less/less.js) | [Website](http://lesscss.org/#)
 * Stylus: [GitHub](https://github.com/stylus/stylus/) | [Website](http://stylus-lang.com/)
@@ -88,17 +142,12 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Clay: [GitHub](https://github.com/sebastiaanvisser/clay) | [Website](http://fvisser.nl/clay/)
 * PostCSS: [GitHub](https://github.com/postcss/postcss)
 
-## Source Control
-* [GitKraken](https://www.gitkraken.com) - An easy-to-use, cross-platform Git client
-* [Abstract](https://www.abstractapp.com/) - Version control for designers, integrates with [Sketch](https://www.sketchapp.com/).
-* [Sketchpacks Relay](https://github.com/integration/sketchpacks-relay) - Serve your Sketch plugin updates from Github in real-time
-
-## Typography
+### Typography
 * Simple Typography with Sass: [GitHub](https://github.com/AdamMarsden/simple-typography)
 * Typographic Scales by Spec: [Website](https://spec.fm/specifics/type-scale)
 * Rhythm in Web Typography: [Website](https://betterwebtype.com/rhythm-in-web-typography)
 
-## Animation
+### Animation
 * Anime.js: [GitHub](https://github.com/juliangarnier/anime) | [Website](http://anime-js.com/)
 * Animate.css: [GitHub](https://github.com/daneden/animate.css) | [Website](http://daneden.github.io/animate.css/)
 * Hover.css: [GitHub](https://github.com/IanLunn/Hover) | [Website](http://ianlunn.github.io/Hover/)
@@ -107,65 +156,24 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Choreographer.js [GitHub](https://github.com/christinecha/choreographer-js) | [Website](https://christinecha.github.io/choreographer-js/)
 * GreenSock: [Website](https://greensock.com/gsap)
 
-## Email Frameworks
+### Email Frameworks
 * Foundation for Emails (Formerly Ink): [GitHub](https://github.com/zurb/foundation-emails) | [Website](http://foundation.zurb.com/emails/email-templates.html)
 * MJML: [Website](https://mjml.io/)
 * Antwort: [Website](http://internations.github.io/antwort/)
 
-## Testing Frameworks
+### Testing Frameworks
 * QUnit: [Website](https://qunitjs.com/)
 * Jasmine: [Website](http://jasmine.github.io/)
 * Mocha: [Website](https://mochajs.org/)
 * Wallaby.js: [Website](https://wallabyjs.com/)
 
-## Miscellaneous Frameworks
+### Miscellaneous Frameworks
 * Normalize.css: [GitHub](https://github.com/necolas/normalize.css)
 * Buttons: [GitHub](https://github.com/alexwolfe/Buttons)
 * Polymer Designer: [GitHub](https://github.com/Polymer/designer)
 * Angular: [GitHub](https://github.com/angular/angular)
 
-## Prototyping Tools
-* InVision: [Website](https://www.invisionapp.com/)
-* Adobe XD: [Website](http://www.adobe.com/uk/products/experience-design.html)
-* Flinto: [Website](https://flinto.com)
-* Principle: [Website](http://principleformac.com/)
-* Framer: [Website](https://framer.com/)
-* Marvel: [Website](https://marvelapp.com/)
-
-## Miscellaneous
-* [DesignMovies](http://www.designmovi.es/)
-* [UI Talks](http://talks.ui-patterns.com/)
-* [Panda](http://usepanda.com/)
-* [Codrops](http://tympanus.net/codrops/)
-* [Kap: An open source screen recorder](https://getkap.co/)
-
-## YouTube
-* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
-* [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
-
-## Browser Extensions
-* [Panda](https://usepanda.com/)
-* [Palette](https://chrome.google.com/webstore/detail/palette/nmfbolhlkhjkmkkbginaicfpbpdjlfje)
-* [Stylish](https://userstyles.org/)
-
-## Websites
-* [Designer News](https://www.designernews.co/)
-* [Dribbble](https://dribbble.com/)
-* [Behance](https://www.behance.net/)
-* [CSS-Tricks](https://css-tricks.com/)
-* [Webdesigner Depot](http://www.webdesignerdepot.com/)
-* [DesignModo](http://designmodo.com/)
-* [Awwwards](http://www.awwwards.com/blog/)
-* [Dwell](https://hello.dwell.com/)
-* [Interface Lovers](https://interfacelovers.com/)
-* [Smashing Magazine](https://www.smashingmagazine.com/articles/)
-
-## Generic Design Tools
-* [Figma](https://www.figma.com/files)
-* [Sketch](https://www.sketchapp.com/)
-* [Sketchpacks](https://sketchpacks.com/) - Manage & auto-update your Sketch plugins
-* [Webflow](https://webflow.com/)
-* [Framer](https://framer.com/)
-
-## User Research
-* [Jaco](https://www.getjaco.com/)
+## Version Control
+* [GitKraken](https://www.gitkraken.com) - An easy-to-use, cross-platform Git client
+* [Abstract](https://www.abstractapp.com/) - Version control for designers, integrates with [Sketch](https://www.sketchapp.com/).
+* [Sketchpacks Relay](https://github.com/integration/sketchpacks-relay) - Serve your Sketch plugin updates from Github in real-time
