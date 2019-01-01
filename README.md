@@ -4,8 +4,6 @@ The more frictionless building great user interfaces becomes, the more the user 
 
 The aim of this is to evolve with the industry and the growing list of tools that are built to support UI/UX designers.
 
-Maintained by [Feather](https://feather-cfm.com/) and our design community, [Human Friendly](https://uiux.blog).
-
 ## Table of Contents
 * [Designers](#designers)
 * [User Research](#user-research)
