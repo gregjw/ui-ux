@@ -13,12 +13,13 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * [Miscellaneous](#miscellaneous)
 * [Websites](#websites)
 * [YouTube](#youtube)
-* [Front-end CSS Framework](#front-end-css-framework)
+* [CSS Framework](#front-end-css-framework)
 * [Front-end JavaScript Framework](#front-end-javascript-framework)
 * [CSS Preprocessor](#css-preprocessor)
 * [Typography](#typography)
 * [Animation](#animation)
 * [Email Frameworks](#email-frameworks)
+* [Desktop GUI Libraries](#desktop-gui-libs)
 * [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
 * [Version Control](#version-control)
@@ -102,7 +103,7 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 
 ## UI
 
-### Front-end CSS Framework
+### CSS Framework
 * Framework7: [GitHub](https://github.com/framework7io/framework7) | [Website](http://framework7.io)
 * Ionic: [GitHub](https://github.com/ionic-team/ionic) | [Website](https://ionicframework.com/)
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
@@ -158,6 +159,14 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * Foundation for Emails (Formerly Ink): [GitHub](https://github.com/zurb/foundation-emails) | [Website](http://foundation.zurb.com/emails/email-templates.html)
 * MJML: [Website](https://mjml.io/)
 * Antwort: [Website](http://internations.github.io/antwort/)
+
+### Desktop GUI Libraries
+* Agar: [GitHub](https://github.com/JulNadeauCA/libagar) | [Website](http://libagar.org/)
+* Nuklear: [GitHub](https://github.com/vurtun/nuklear)
+* libui: [GitHub](https://github.com/andlabs/libui)
+* FLTK: [GitHub](https://github.com/fltk/fltk) | [Website](https://www.fltk.org/) 
+* GTK+: [GitHub](https://github.com/GNOME/gtk) | [Website](https://gtk.org/)
+* EFL: [GitHub](https://github.com/Enlightenment/efl) | [Website](https://www.enlightenment.org/)
 
 ### Testing Frameworks
 * QUnit: [Website](https://qunitjs.com/)
