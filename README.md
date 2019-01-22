@@ -21,7 +21,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [Typography](#typography)
 * [Animation](#animation)
 * [Email Frameworks](#email-frameworks)
-* [Desktop GUI Libraries](#desktop-gui-libs)
+* [Desktop GUI Libraries](#desktop-gui-libraries)
 * [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
 * [Version Control](#version-control)
