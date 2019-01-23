@@ -19,7 +19,7 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * [Typography](#typography)
 * [Animation](#animation)
 * [Email Frameworks](#email-frameworks)
-* [Desktop GUI Libraries](#desktop-gui-libs)
+* [Desktop GUI Libraries](#desktop-gui-libraries)
 * [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
 * [Version Control](#version-control)
