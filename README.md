@@ -15,8 +15,9 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [Miscellaneous](#miscellaneous)
 * [Websites](#websites)
 * [YouTube](#youtube)
-* [CSS Framework](#front-end-css-framework)
-* [Front-end Web Framework](#front-end-web-framework)
+* [CSS Framework](#front-end-css-frameworks)
+* [Front-end Web Frameworks](#front-end-web-frameworks)
+* [Javascript UI libraries](#javascript-ui-libraries)
 * [CSS Preprocessor](#css-preprocessor)
 * [Typography](#typography)
 * [Animation](#animation)
@@ -107,7 +108,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 
 ## UI
 
-### CSS Framework
+### CSS Frameworks
 * Framework7: [GitHub](https://github.com/framework7io/framework7) | [Website](http://framework7.io)
 * Ionic: [GitHub](https://github.com/ionic-team/ionic) | [Website](https://ionicframework.com/)
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
@@ -125,7 +126,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Pure: [Website](https://purecss.io/)
 * Bulma: [Website](http://bulma.io/)
 
-### Front-end Web Framework
+### Front-end Web Frameworks
 #### Rust
 * Yew: [GitHub](https://github.com/DenisKolodin/yew)
 #### Typescript
@@ -137,7 +138,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Poke: [GitHub](https://github.com/gregjw/poke) | [Website](https://poke.js.org/)
 * Cycle.js: [Website](https://cycle.js.org/)
 
-### Front-end Web libraries
+### Javascript UI libraries
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
 * Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
 * Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
