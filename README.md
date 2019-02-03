@@ -127,12 +127,13 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 
 ### Front-end Web Framework
 #### Javascript
-* Angular: [GitHub](https://github.com/angular/angular) | [Website](https://angular.io/)
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
 * Vue.js: [GitHub](https://github.com/vuejs/vue) | [Website](https://vuejs.org/)
 * Poke: [GitHub](https://github.com/gregjw/poke) | [Website](https://poke.js.org/)
 * Cycle.js: [Website](https://cycle.js.org/)
+#### Typescript
+* Angular: [GitHub](https://github.com/angular/angular) | [Website](https://angular.io/)
 #### Rust
 * Yew: [GitHub](https://github.com/DenisKolodin/yew)
 
@@ -199,7 +200,6 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Normalize.css: [GitHub](https://github.com/necolas/normalize.css)
 * Buttons: [GitHub](https://github.com/alexwolfe/Buttons)
 * Polymer Designer: [GitHub](https://github.com/Polymer/designer)
-* Angular: [GitHub](https://github.com/angular/angular)
 
 ## Version Control
 * [GitKraken](https://www.gitkraken.com) - An easy-to-use, cross-platform Git client
