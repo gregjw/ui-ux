@@ -136,7 +136,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 #### Rust
 * Yew: [GitHub](https://github.com/DenisKolodin/yew)
 
-### Front-end Javascript libraries
+### Front-end Web libraries
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
 * Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
 * Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
