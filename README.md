@@ -138,7 +138,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Poke: [GitHub](https://github.com/gregjw/poke) | [Website](https://poke.js.org/)
 * Cycle.js: [Website](https://cycle.js.org/)
 
-### Javascript UI libraries
+### Javascript UI Libraries
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
 * Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
 * Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
