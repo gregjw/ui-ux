@@ -126,16 +126,16 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Bulma: [Website](http://bulma.io/)
 
 ### Front-end Web Framework
+#### Rust
+* Yew: [GitHub](https://github.com/DenisKolodin/yew)
+#### Typescript
+* Angular: [GitHub](https://github.com/angular/angular) | [Website](https://angular.io/)
 #### Javascript
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
 * Vue.js: [GitHub](https://github.com/vuejs/vue) | [Website](https://vuejs.org/)
 * Poke: [GitHub](https://github.com/gregjw/poke) | [Website](https://poke.js.org/)
 * Cycle.js: [Website](https://cycle.js.org/)
-#### Typescript
-* Angular: [GitHub](https://github.com/angular/angular) | [Website](https://angular.io/)
-#### Rust
-* Yew: [GitHub](https://github.com/DenisKolodin/yew)
 
 ### Front-end Web libraries
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
