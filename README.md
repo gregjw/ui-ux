@@ -16,12 +16,14 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [Websites](#websites)
 * [YouTube](#youtube)
 * [CSS Framework](#front-end-css-framework)
-* [Front-end JavaScript Framework](#front-end-javascript-framework)
+* [Front-end Web Framework](#front-end-web-framework)
 * [CSS Preprocessor](#css-preprocessor)
 * [Typography](#typography)
 * [Animation](#animation)
 * [Email Frameworks](#email-frameworks)
 * [Desktop GUI Libraries](#desktop-gui-libraries)
+* [Mobile GUI Frameworks](#mobile-gui-frameworks)
+* [UI Design Languages](#ui-design-languages)
 * [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
 * [Version Control](#version-control)
@@ -123,16 +125,22 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Pure: [Website](https://purecss.io/)
 * Bulma: [Website](http://bulma.io/)
 
-### Front-end JavaScript Framework
-* React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
+### Front-end Web Framework
+#### Javascript
+* Angular: [GitHub](https://github.com/angular/angular) | [Website](https://angular.io/)
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
-* Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
-* Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
 * Vue.js: [GitHub](https://github.com/vuejs/vue) | [Website](https://vuejs.org/)
 * Poke: [GitHub](https://github.com/gregjw/poke) | [Website](https://poke.js.org/)
 * Cycle.js: [Website](https://cycle.js.org/)
-* Elm: [Website](http://elm-lang.org/)
+#### Rust
+* Yew: [GitHub](https://github.com/DenisKolodin/yew)
+
+### Front-end Javascript libraries
+* React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
+* Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
+* Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
+* Webix: [GitHub](https://github.com/webix-hub/webix)
 
 ### CSS Preprocessor
 * Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
@@ -169,6 +177,17 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * FLTK: [GitHub](https://github.com/fltk/fltk) | [Website](https://www.fltk.org/) 
 * GTK+: [GitHub](https://github.com/GNOME/gtk) | [Website](https://gtk.org/)
 * EFL: [GitHub](https://github.com/Enlightenment/efl) | [Website](https://www.enlightenment.org/)
+
+### Mobile GUI Frameworks
+* Kivy : [GitHub](https://github.com/kivy/kivy) | [Website](https://kivy.org)
+* LambdaNative : [GitHub](https://github.com/part-cw/lambdanative) | [Website](https://www.lambdanative.org/)
+
+### UI Design Languages
+* Kv Design Language: [Website](https://kivy.org/doc/stable/guide/lang.html)
+* RadJav: [GitHub](https://github.com/FogChainInc/RadJav)
+* Elm: [Website](http://elm-lang.org/)
+* uilang: [Website](http://uilang.com/)
+* AmmyUI: [GitHub](https://github.com/AmmyUI/AmmyUI)
 
 ### Testing Frameworks
 * QUnit: [Website](https://qunitjs.com/)
