@@ -17,7 +17,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [YouTube](#youtube)
 * [CSS Framework](#front-end-css-frameworks)
 * [Front-end Web Frameworks](#front-end-web-frameworks)
-* [Javascript UI libraries](#javascript-ui-libraries)
+* [Javascript UI Libraries](#javascript-ui-libraries)
 * [CSS Preprocessor](#css-preprocessor)
 * [Typography](#typography)
 * [Animation](#animation)
