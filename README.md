@@ -13,13 +13,16 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * [Miscellaneous](#miscellaneous)
 * [Websites](#websites)
 * [YouTube](#youtube)
-* [CSS Framework](#front-end-css-framework)
-* [Front-end JavaScript Framework](#front-end-javascript-framework)
+* [CSS Framework](#front-end-css-frameworks)
+* [Front-end Web Frameworks](#front-end-web-frameworks)
+* [Javascript UI Libraries](#javascript-ui-libraries)
 * [CSS Preprocessor](#css-preprocessor)
 * [Typography](#typography)
 * [Animation](#animation)
 * [Email Frameworks](#email-frameworks)
 * [Desktop GUI Libraries](#desktop-gui-libraries)
+* [Mobile GUI Frameworks](#mobile-gui-frameworks)
+* [UI Design Languages](#ui-design-languages)
 * [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
 * [Version Control](#version-control)
@@ -103,7 +106,7 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 
 ## UI
 
-### CSS Framework
+### CSS Frameworks
 * Framework7: [GitHub](https://github.com/framework7io/framework7) | [Website](http://framework7.io)
 * Ionic: [GitHub](https://github.com/ionic-team/ionic) | [Website](https://ionicframework.com/)
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
@@ -121,16 +124,23 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * Pure: [Website](https://purecss.io/)
 * Bulma: [Website](http://bulma.io/)
 
-### Front-end JavaScript Framework
-* React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
+### Front-end Web Frameworks
+#### Rust
+* Yew: [GitHub](https://github.com/DenisKolodin/yew)
+#### Typescript
+* Angular: [GitHub](https://github.com/angular/angular) | [Website](https://angular.io/)
+#### Javascript
 * Angular.js: [GitHub](https://github.com/angular/angular.js) | [Website](https://angularjs.org/)
 * Knockout.js: [GitHub](https://github.com/knockout/knockout) | [Website](http://knockoutjs.com/)
-* Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
-* Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
 * Vue.js: [GitHub](https://github.com/vuejs/vue) | [Website](https://vuejs.org/)
 * Poke: [GitHub](https://github.com/gregjw/poke) | [Website](https://poke.js.org/)
 * Cycle.js: [Website](https://cycle.js.org/)
-* Elm: [Website](http://elm-lang.org/)
+
+### Javascript UI Libraries
+* React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
+* Polymer: [GitHub](https://github.com/Polymer/polymer) | [Website](https://www.polymer-project.org/1.0/)
+* Marko.js: [GitHub](https://github.com/marko-js/marko) | [Website](http://markojs.com/)
+* Webix: [GitHub](https://github.com/webix-hub/webix)
 
 ### CSS Preprocessor
 * Sass: [GitHub](https://github.com/sass/sass) | [Website](http://sass-lang.com/)
@@ -168,6 +178,17 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * GTK+: [GitHub](https://github.com/GNOME/gtk) | [Website](https://gtk.org/)
 * EFL: [GitHub](https://github.com/Enlightenment/efl) | [Website](https://www.enlightenment.org/)
 
+### Mobile GUI Frameworks
+* Kivy : [GitHub](https://github.com/kivy/kivy) | [Website](https://kivy.org)
+* LambdaNative : [GitHub](https://github.com/part-cw/lambdanative) | [Website](https://www.lambdanative.org/)
+
+### UI Design Languages
+* Kv Design Language: [Website](https://kivy.org/doc/stable/guide/lang.html)
+* RadJav: [GitHub](https://github.com/FogChainInc/RadJav)
+* Elm: [Website](http://elm-lang.org/)
+* uilang: [Website](http://uilang.com/)
+* AmmyUI: [GitHub](https://github.com/AmmyUI/AmmyUI)
+
 ### Testing Frameworks
 * QUnit: [Website](https://qunitjs.com/)
 * Jasmine: [Website](http://jasmine.github.io/)
@@ -178,7 +199,6 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * Normalize.css: [GitHub](https://github.com/necolas/normalize.css)
 * Buttons: [GitHub](https://github.com/alexwolfe/Buttons)
 * Polymer Designer: [GitHub](https://github.com/Polymer/designer)
-* Angular: [GitHub](https://github.com/angular/angular)
 
 ## Version Control
 * [GitKraken](https://www.gitkraken.com) - An easy-to-use, cross-platform Git client
