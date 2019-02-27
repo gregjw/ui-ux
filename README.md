@@ -137,6 +137,8 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Vue.js: [GitHub](https://github.com/vuejs/vue) | [Website](https://vuejs.org/)
 * Poke: [GitHub](https://github.com/gregjw/poke) | [Website](https://poke.js.org/)
 * Cycle.js: [Website](https://cycle.js.org/)
+#### Elm
+* Elm-UI: [GitHub](https://github.com/gdotdesign/elm-ui) | [Website](https://elm-ui.netlify.com/)
 
 ### Javascript UI Libraries
 * React.js: [GitHub](https://github.com/facebook/react) | [Website](https://facebook.github.io/react/)
