@@ -173,6 +173,7 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * Antwort: [Website](http://internations.github.io/antwort/)
 
 ### Desktop GUI Libraries
+* ImGui: [GitHub](https://github.com/ocornut/imgui)
 * Agar: [GitHub](https://github.com/JulNadeauCA/libagar) | [Website](http://libagar.org/)
 * Nuklear: [GitHub](https://github.com/vurtun/nuklear)
 * libui: [GitHub](https://github.com/andlabs/libui)
