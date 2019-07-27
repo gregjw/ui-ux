@@ -61,6 +61,11 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [LookBack](https://lookback.io/)
 * [Jaco](https://www.getjaco.com/)
 
+### Standards & Guidelines
+* Desktop: [Microsoft Guidelines](https://docs.microsoft.com/en-us/windows/win32/uxguide/guidelines)
+* Mobile & Embedded: [Apple Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+* Web: [Clarity Design System Guidelines](https://clarity.design/documentation)
+
 ### Prototyping Tools
 * Moqups: [Website](https://moqups.com/)
 * Axure RP: [Website](https://www.axure.com/)
