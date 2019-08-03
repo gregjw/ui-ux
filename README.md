@@ -9,7 +9,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 ## Table of Contents
 * [Designers](#designers)
 * [User Research Tools](#user-research-tools)
-* [Standards & Guidelines](#standards-guidelines)
+* [Standards & Guidelines](#standards-&-guidelines)
 * [Prototyping Tools](#prototyping-tools)
 * [Browser Extensions](#browser-extensions)
 * [Generic Design Tools](#generic-design-tools)
