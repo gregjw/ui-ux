@@ -8,7 +8,8 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 
 ## Table of Contents
 * [Designers](#designers)
-* [User Research](#user-research)
+* [User Research Tools](#user-research-tools)
+* [Standards & Guidelines](#standards-guidelines)
 * [Prototyping Tools](#prototyping-tools)
 * [Browser Extensions](#browser-extensions)
 * [Generic Design Tools](#generic-design-tools)
@@ -57,7 +58,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * Colin Dunn: [Twitter](https://twitter.com/colin_dunn)
 * Darin Dimitroff: [Twitter](https://twitter.com/deezel)
 
-### User Research
+### User Research Tools
 * [LookBack](https://lookback.io/)
 * [Jaco](https://www.getjaco.com/)
 
