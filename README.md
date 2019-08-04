@@ -23,8 +23,7 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * [Typography](#typography)
 * [Animation](#animation)
 * [Email Frameworks](#email-frameworks)
-* [Desktop GUI Libraries](#desktop-gui-libraries)
-* [Mobile GUI Frameworks](#mobile-gui-frameworks)
+* [GUI Libraries and Frameworks](#gui-libraries-and-frameworks)
 * [UI Design Languages](#ui-design-languages)
 * [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
@@ -180,7 +179,22 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * MJML: [Website](https://mjml.io/)
 * Antwort: [Website](http://internations.github.io/antwort/)
 
-### Desktop GUI Libraries
+### GUI Libraries and Frameworks
+
+#### Frameworks
+
+##### Cross-platform
+
+* Qt: [Website](https://qt.io/)
+
+##### Mobile
+
+* Kivy : [GitHub](https://github.com/kivy/kivy) | [Website](https://kivy.org)
+* LambdaNative : [GitHub](https://github.com/part-cw/lambdanative) | [Website](https://www.lambdanative.org/)
+
+#### Libraries
+
+##### Desktop
 * ImGui: [GitHub](https://github.com/ocornut/imgui)
 * Agar: [GitHub](https://github.com/JulNadeauCA/libagar) | [Website](http://libagar.org/)
 * Nuklear: [GitHub](https://github.com/vurtun/nuklear)
@@ -188,10 +202,6 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 * FLTK: [GitHub](https://github.com/fltk/fltk) | [Website](https://www.fltk.org/) 
 * GTK+: [GitHub](https://github.com/GNOME/gtk) | [Website](https://gtk.org/)
 * EFL: [GitHub](https://github.com/Enlightenment/efl) | [Website](https://www.enlightenment.org/)
-
-### Mobile GUI Frameworks
-* Kivy : [GitHub](https://github.com/kivy/kivy) | [Website](https://kivy.org)
-* LambdaNative : [GitHub](https://github.com/part-cw/lambdanative) | [Website](https://www.lambdanative.org/)
 
 ### UI Design Languages
 * Kv Design Language: [Website](https://kivy.org/doc/stable/guide/lang.html)
