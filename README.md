@@ -6,7 +6,8 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 
 ## Table of Contents
 * [Designers](#designers)
-* [User Research](#user-research)
+* [User Research Tools](#user-research-tools)
+* [Standards and Guidelines](#standards-and-guidelines)
 * [Prototyping Tools](#prototyping-tools)
 * [Browser Extensions](#browser-extensions)
 * [Generic Design Tools](#generic-design-tools)
@@ -20,8 +21,7 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * [Typography](#typography)
 * [Animation](#animation)
 * [Email Frameworks](#email-frameworks)
-* [Desktop GUI Libraries](#desktop-gui-libraries)
-* [Mobile GUI Frameworks](#mobile-gui-frameworks)
+* [GUI Libraries and Frameworks](#gui-libraries-and-frameworks)
 * [UI Design Languages](#ui-design-languages)
 * [Testing Frameworks](#testing-frameworks)
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
@@ -55,11 +55,11 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * Colin Dunn: [Twitter](https://twitter.com/colin_dunn)
 * Darin Dimitroff: [Twitter](https://twitter.com/deezel)
 
-### User Research
+### User Research Tools
 * [LookBack](https://lookback.io/)
 * [Jaco](https://www.getjaco.com/)
 
-### Standards & Guidelines
+### Standards and Guidelines
 * Desktop: [Microsoft Guidelines](https://docs.microsoft.com/en-us/windows/win32/uxguide/guidelines)
 * Mobile & Embedded: [Apple Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 * Web: [Clarity Design System Guidelines](https://clarity.design/documentation)
@@ -177,7 +177,22 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * MJML: [Website](https://mjml.io/)
 * Antwort: [Website](http://internations.github.io/antwort/)
 
-### Desktop GUI Libraries
+### GUI Libraries and Frameworks
+
+#### Frameworks
+
+##### Cross-platform
+
+* Qt: [Website](https://qt.io/)
+
+##### Mobile
+
+* Kivy : [GitHub](https://github.com/kivy/kivy) | [Website](https://kivy.org)
+* LambdaNative : [GitHub](https://github.com/part-cw/lambdanative) | [Website](https://www.lambdanative.org/)
+
+#### Libraries
+
+##### Desktop
 * ImGui: [GitHub](https://github.com/ocornut/imgui)
 * Agar: [GitHub](https://github.com/JulNadeauCA/libagar) | [Website](http://libagar.org/)
 * Nuklear: [GitHub](https://github.com/vurtun/nuklear)
@@ -185,10 +200,6 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * FLTK: [GitHub](https://github.com/fltk/fltk) | [Website](https://www.fltk.org/) 
 * GTK+: [GitHub](https://github.com/GNOME/gtk) | [Website](https://gtk.org/)
 * EFL: [GitHub](https://github.com/Enlightenment/efl) | [Website](https://www.enlightenment.org/)
-
-### Mobile GUI Frameworks
-* Kivy : [GitHub](https://github.com/kivy/kivy) | [Website](https://kivy.org)
-* LambdaNative : [GitHub](https://github.com/part-cw/lambdanative) | [Website](https://www.lambdanative.org/)
 
 ### UI Design Languages
 * Kv Design Language: [Website](https://kivy.org/doc/stable/guide/lang.html)
