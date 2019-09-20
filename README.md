@@ -64,7 +64,9 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 ### Standards and Guidelines
 * Desktop: [Microsoft Guidelines](https://docs.microsoft.com/en-us/windows/win32/uxguide/guidelines)
 * Mobile & Embedded: [Apple Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-* Web: [Clarity Design System Guidelines](https://clarity.design/documentation)
+* Web:
+    - [VMWare Guidelines (Clarity Design System)](https://clarity.design/documentation)
+    - [Microsoft Guidelines (Office UI Fabric Core)](https://developer.microsoft.com/en-us/fabric#/controls/web)
 
 ### Prototyping Tools
 * Moqups: [Website](https://moqups.com/)
@@ -114,6 +116,8 @@ Maintained by [Feather](https://feather-cfm.com/) and our design community, [Hum
 ## UI
 
 ### CSS Frameworks
+* Fabric Core: [GitHub](https://github.com/OfficeDev/office-ui-fabric-core) | [Website](https://developer.microsoft.com/en-us/fabric#/get-started#fabric-core)
+* Clarity: [GitHub](https://github.com/vmware/clarity/) | [Website](https://clarity.design)
 * Framework7: [GitHub](https://github.com/framework7io/framework7) | [Website](http://framework7.io)
 * Ionic: [GitHub](https://github.com/ionic-team/ionic) | [Website](https://ionicframework.com/)
 * Bootstrap: [GitHub](https://github.com/twbs/bootstrap) | [Website](http://getbootstrap.com/)
