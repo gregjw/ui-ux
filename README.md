@@ -54,6 +54,7 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * Alan Bauchop: [Twitter](https://twitter.com/AlanInterface)
 * Colin Dunn: [Twitter](https://twitter.com/colin_dunn)
 * Darin Dimitroff: [Twitter](https://twitter.com/deezel)
+* Bruno Simon: [Github](https://github.com/brunosimon)
 
 ### User Research Tools
 * [LookBack](https://lookback.io/)
