@@ -12,6 +12,7 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * [Browser Extensions](#browser-extensions)
 * [Generic Design Tools](#generic-design-tools)
 * [Miscellaneous](#miscellaneous)
+* [Slack groups](#slack)
 * [Websites](#websites)
 * [YouTube](#youtube)
 * [CSS Framework](#front-end-css-frameworks)
@@ -95,6 +96,24 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * [Panda](http://usepanda.com/)
 * [Codrops](http://tympanus.net/codrops/)
 * [Kap: An open source screen recorder](https://getkap.co/)
+
+### Slack
+* [The Fearless Community](https://fearlesstalent.co/community/)
+* [Content + UX](https://contentandux.org/)
+* [Design Gigs for Good](https://www.designgigsforgood.org/)
+* [Design Leadership](https://designleadership.io/)
+* [Design Systems Slack](https://design.systems/slack/)
+* [Design to Combat COVID-19](https://airtable.com/shrHgouIXy3p85oHy)
+* [DesignOps Community](https://rosenfeldmedia.com/designops-community/#join-us)
+* [DesignX](https://designx.community/)
+* [Designer Hangout](https://www.designerhangout.co/)
+* [Growth Designers](https://growthdesigners.co/)
+* [IxDA](https://ixda.slack.com/join/shared_invite/enQtMzI1NTk2NzA2MjA4LTA2NmM1ZjNiNzFjZTg2NjNmMTZkZTY1MzdhYWM4N2FiY2I5YTA3ZGZjNDk1MTk4ODU1MDc0NDkxYmFiM2FlOWY#/)
+* [Leading Design](https://leadingdesign.com/join)
+* [Mixed Methods](https://www.mixed-methods.org/)
+* [Product Hive](https://www.producthive.org/)
+* [UX Mastery](https://uxmastery.com/)
+* [UXR Collective](https://docs.google.com/forms/d/e/1FAIpQLSePL0dRncx0hiadfGcvogtTwlZZvpT-M6oe3kRFi1ajwXDZzw/viewform)
 
 ### Websites
 * [Designer News](https://www.designernews.co/)
