@@ -58,6 +58,7 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * Bruno Simon: [Github](https://github.com/brunosimon)
 
 ### User Research Tools
+* [Hubble](https://hubble.team/)
 * [LookBack](https://lookback.io/)
 * [Jaco](https://www.getjaco.com/)
 
